@@ -1,3 +1,4 @@
+
 def rotate(text, key):
     ciphertext=''
     for ch in text: 
@@ -8,5 +9,6 @@ def rotate(text, key):
             finalletter=chr(i)
             ciphertext+=finalletter
     return ciphertext
+
 
 

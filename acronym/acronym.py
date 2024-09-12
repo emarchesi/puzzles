@@ -1,2 +1,4 @@
 def abbreviate(words):
-    pass
+    list = 
+        
+        
